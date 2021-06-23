@@ -1,0 +1,12 @@
+C:\Users\Ali\source\repos\Restaurant Management WEB-APP\Restaurant Management WEB-APP\bin\Debug\Restaurant Management WEB-APP.exe.config
+C:\Users\Ali\source\repos\Restaurant Management WEB-APP\Restaurant Management WEB-APP\bin\Debug\Restaurant Management WEB-APP.exe
+C:\Users\Ali\source\repos\Restaurant Management WEB-APP\Restaurant Management WEB-APP\bin\Debug\Restaurant Management WEB-APP.pdb
+C:\Users\Ali\source\repos\Restaurant Management WEB-APP\Restaurant Management WEB-APP\obj\Debug\Restaurant Management WEB-APP.csprojAssemblyReference.cache
+C:\Users\Ali\source\repos\Restaurant Management WEB-APP\Restaurant Management WEB-APP\obj\Debug\Restaurant_Management_WEB_APP.Form1.resources
+C:\Users\Ali\source\repos\Restaurant Management WEB-APP\Restaurant Management WEB-APP\obj\Debug\Restaurant_Management_WEB_APP.Properties.Resources.resources
+C:\Users\Ali\source\repos\Restaurant Management WEB-APP\Restaurant Management WEB-APP\obj\Debug\Restaurant Management WEB-APP.csproj.GenerateResource.cache
+C:\Users\Ali\source\repos\Restaurant Management WEB-APP\Restaurant Management WEB-APP\obj\Debug\Restaurant Management WEB-APP.exe
+C:\Users\Ali\source\repos\Restaurant Management WEB-APP\Restaurant Management WEB-APP\obj\Debug\Restaurant Management WEB-APP.pdb
+C:\Users\Ali\source\repos\Restaurant Management WEB-APP\Restaurant Management WEB-APP\obj\Debug\Restaurant_Management_WEB_APP.Form3.resources
+C:\Users\Ali\source\repos\Restaurant Management WEB-APP\Restaurant Management WEB-APP\obj\Debug\Restaurant_Management_WEB_APP.Form2.resources
+C:\Users\Ali\source\repos\Restaurant Management WEB-APP\Restaurant Management WEB-APP\obj\Debug\Restaurant_Management_WEB_APP.Form4.resources
